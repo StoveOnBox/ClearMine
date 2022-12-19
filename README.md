@@ -4,9 +4,6 @@
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">扫雷</h1>
 <h4 align="center">JAVA期末课设作业</h4>
 
-
-</p>
-
 ## 一、 介绍
 
 该项目皆在复刻微软的经典小程序“**扫雷**”
@@ -38,7 +35,15 @@
 2. MineGame
 3. Time
 
-## 三、开源
+## 三、不足与改进
+
+- [x] 完成游戏基本功能
+- [ ] 难度选择
+- [ ] 可视化和美化
+
+下一步计划填补以上两个没有打勾的选项
+
+## 四、开源
 
 [项目](https://github.com/StoveOnBox/ClearMine)开源在Github方便后续的修改和发布
 
